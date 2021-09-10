@@ -53,6 +53,13 @@ summary.aov(model1)
 ```
 
 The p-value represents the chance of getting the result we obtained if the null hypothesis is accurate. The p-value is 0.000116, which is so small, I am going to reject the null hypothesis.
+We now need to look and see if it is possible to discover what is different from what.
+
+```{r}
+plot(TukeyHSD(model1))
+```
+
+According to this chart the middle and the front don't have a difference. However, the front-back and middle-back do have a difference.
 
 ## Conclusions
 
