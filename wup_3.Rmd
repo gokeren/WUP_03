@@ -63,4 +63,8 @@ According to this chart the middle and the front don't have a difference. Howeve
 
 ## Conclusions
 
-
+To conclude, we found three different categories of drinkers. We used anova to determine the amount of drinks per week depending on where they sit. 
+According to this chart the middle and the front don't have a difference. However, the front-back and middle-back do have a difference.
+The p-value represents the chance of getting the result we obtained if the null hypothesis is accurate. The p-value is 0.000116, which is so small, I am going to reject the null hypothesis.
+We now need to look and see if it is possible to discover what is different from what.
+According to this 95% confidence family-wise confidence level chart the middle and the front don't have a difference. However, the front-back and middle-back do have a difference.
